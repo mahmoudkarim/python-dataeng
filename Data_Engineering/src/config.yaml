@@ -1,0 +1,40 @@
+tables:
+  clinical_trials:
+    schema:
+      id: string
+      scientific_title: string
+      date: date
+      journal: string
+    validation:
+      id:
+        required: true
+      date:
+        required: true
+      journal:
+        required: true
+
+  drugs:
+    schema:
+      atccode: string
+      drug: string
+    validation:
+      atccode:
+        required: true
+      name:
+        required: true
+
+  pubmed:
+    schema:
+      id: integer
+      title: string
+      date: date
+      journal: string
+    validation:
+      id:
+        required: true
+      title:
+        required: true
+      date:
+        required: true
+      journal:
+        required: true

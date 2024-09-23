@@ -1,0 +1,97 @@
+{
+  "drugs": {
+    "diphenhydramine": {
+      "pubmed": [
+        {
+          "journal": "journal of emergency nursing",
+          "date": "2019-01-01"
+        },
+        {
+          "journal": "the journal of pediatrics",
+          "date": "2019-02-01"
+        }
+      ],
+      "clinical_trials": [
+        {
+          "journal": "journal of emergency nursing",
+          "date": "2020-01-01"
+        }
+      ]
+    },
+    "tetracycline": {
+      "pubmed": [
+        {
+          "journal": "journal of food protection",
+          "date": "2020-01-01"
+        },
+        {
+          "journal": "american journal of veterinary research",
+          "date": "2020-02-01"
+        },
+        {
+          "journal": "psychopharmacology",
+          "date": "2020-01-01"
+        }
+      ],
+      "clinical_trials": []
+    },
+    "ethanol": {
+      "pubmed": [
+        {
+          "journal": "psychopharmacology",
+          "date": "2020-01-01"
+        }
+      ],
+      "clinical_trials": []
+    },
+    "atropine": {
+      "pubmed": [],
+      "clinical_trials": []
+    },
+    "epinephrine": {
+      "pubmed": [
+        {
+          "journal": "the journal of allergy and clinical immunology. in practice",
+          "date": "2020-01-02"
+        },
+        {
+          "journal": "the journal of allergy and clinical immunology. in practice",
+          "date": "2020-01-03"
+        }
+      ],
+      "clinical_trials": [
+        {
+          "journal": "journal of emergency nursing",
+          "date": "2020-04-27"
+        }
+      ]
+    },
+    "isoprenaline": {
+      "pubmed": [
+        {
+          "journal": "journal of photochemistry and photobiology. b, biology",
+          "date": "2020-01-01"
+        }
+      ],
+      "clinical_trials": []
+    },
+    "betamethasone": {
+      "pubmed": [
+        {
+          "journal": "the journal of maternal-fetal & neonatal medicine",
+          "date": "2020-01-01"
+        },
+        {
+          "journal": "journal of back and musculoskeletal rehabilitation",
+          "date": "2020-01-01"
+        }
+      ],
+      "clinical_trials": [
+        {
+          "journal": "hôpitaux universitaires de genève",
+          "date": "2020-01-01"
+        }
+      ]
+    }
+  }
+}
